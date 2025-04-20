@@ -1,0 +1,25 @@
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    color: black;
+}
+#img1{
+    height: 80vh;
+    width: 100%;
+}
+.img1{
+    height: 300px;
+    width: 300px;
+    
+}
+
+#img{
+    width: 200px;
+    height: 200px;
+}
+#img2{
+    width: 300px;
+    height: 300px;
+}
